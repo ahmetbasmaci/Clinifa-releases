@@ -9,18 +9,18 @@
 
 | حزمة البرنامج | رقم الإصدار | الحجم | التوافق | رابط التحميل المباشر |
 | :--- | :--- | :--- | :--- | :--- |
-| **Clinifa Setup Installer** | **v1.0.1** | **41.22 MB** | Windows 10 / 11 (64-bit) | [⬇️ تحميل الإصدار الرسمي v1.0.1](https://github.com/ahmetbasmaci/Clinifa-releases/releases/download/v1.0.1/Clinifa_Setup_v1.0.1.exe) |
+| **Clinifa Setup Installer** | **v1.0.2** | **45.61 MB** | Windows 10 / 11 (64-bit) | [⬇️ تحميل الإصدار الرسمي v1.0.2](https://github.com/ahmetbasmaci/Clinifa-releases/releases/download/v1.0.2/Clinifa_Setup_v1.0.2.exe) |
 
 ---
 
 ### 🛡️ بصمة التحقق الرقمية (SHA-256 Checksum):
 ```text
-05486A88DEAEF340CF729E3078F78D2D60149277BF03A68729A728794B2A8921
+CB894A55F899D45F7B740BDA2A26DE2EA398D66D9B3FE40E01D7A76FA1964A71
 ```
 
 للتحقق من سلامة الملف عبر PowerShell بعد التحميل:
 ```powershell
-Get-FileHash -Path "Clinifa_Setup_v1.0.1.exe" -Algorithm SHA256
+Get-FileHash -Path "Clinifa_Setup_v1.0.2.exe" -Algorithm SHA256
 ```
 
 ---
@@ -29,6 +29,7 @@ Get-FileHash -Path "Clinifa_Setup_v1.0.1.exe" -Algorithm SHA256
 - ⚡ **يعمل محلياً بالكامل أوفلاين 100% بدون إنترنت**.
 - 🔄 **تزامن شبكي فوري** عبر راوتر العيادة بين شاشة الاستقبال وشاشة الطبيب.
 - 📱 **دعم تطبيق الهاتف المحمول مجاناً** موصول عبر شبكة العيادة.
+- 🦷 **سجلات طبية تخصصية متقدمة** لطب الأسنان، الجلدية، والطب العام.
 - 💰 **إدارة متكاملة للحسابات** والدفعات وسندات القبض.
 - 💾 **نسخ احتياطي محلي تلقائي** لحماية بيانات المرضى والعيادة.
 
