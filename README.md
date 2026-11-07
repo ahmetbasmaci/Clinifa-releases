@@ -9,18 +9,18 @@
 
 | حزمة البرنامج | رقم الإصدار | الحجم | التوافق | رابط التحميل المباشر |
 | :--- | :--- | :--- | :--- | :--- |
-| **Clinifa Setup Installer** | **v1.0.4** | **42.04 MB** | Windows 10 / 11 (64-bit) | [⬇️ تحميل الإصدار الرسمي v1.0.4](https://github.com/ahmetbasmaci/Clinifa-releases/releases/download/v1.0.4/Clinifa_Setup_v1.0.4.exe) |
+| **Clinifa Setup Installer** | **v1.0.5** | **42.53 MB** | Windows 10 / 11 (64-bit) | [⬇️ تحميل الإصدار الرسمي v1.0.5](https://github.com/ahmetbasmaci/Clinifa-releases/releases/download/v1.0.5/Clinifa_Setup_v1.0.5.exe) |
 
 ---
 
 ### 🛡️ بصمة التحقق الرقمية (SHA-256 Checksum):
 ```text
-DBF40AE0BF091E98E57DBE51E2AF5E6022EF4F2455A35AB969F7F24F98711F3A
+9F7B2E53CF3CA5F72076866D1E3A3132F0ECE9D995CC578E190641DD32AE4B15
 ```
 
 للتحقق من سلامة الملف عبر PowerShell بعد التحميل:
 ```powershell
-Get-FileHash -Path "Clinifa_Setup_v1.0.4.exe" -Algorithm SHA256
+Get-FileHash -Path "Clinifa_Setup_v1.0.5.exe" -Algorithm SHA256
 ```
 
 ---
