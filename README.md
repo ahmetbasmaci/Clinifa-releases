@@ -7,20 +7,21 @@
 
 ## 📥 أحدث إصدار للتحميل المباشر (Latest Stable Release)
 
-| حزمة البرنامج | رقم الإصدار | الحجم | التوافق | رابط التحميل المباشر |
+| حزمة البرنامج | رقم الإصدار | الحجم | التوافق | رابط التحميل المباشر الدائم |
 | :--- | :--- | :--- | :--- | :--- |
-| **Clinifa Setup Installer** | **v1.0.6** | **43.46 MB** | Windows 10 / 11 (64-bit) | [⬇️ تحميل الإصدار الرسمي v1.0.6](https://github.com/ahmetbasmaci/Clinifa-releases/releases/download/v1.0.6/Clinifa_Setup_v1.0.6.exe) |
+| **Clinifa Setup (أحدث إصدار دائم)** | **v1.0.7** | **70.08 MB** | Windows 10 / 11 (64-bit) | [⬇️ تحميل الإصدار الأخير (رابط دائم)](https://github.com/ahmetbasmaci/Clinifa-releases/releases/latest/download/Clinifa_Setup.exe) |
+| **Clinifa Setup (v1.0.7)** | **v1.0.7** | **70.08 MB** | Windows 10 / 11 (64-bit) | [⬇️ تحميل ملف Clinifa_Setup_v1.0.7.exe](https://github.com/ahmetbasmaci/Clinifa-releases/releases/download/v1.0.7/Clinifa_Setup_v1.0.7.exe) |
 
 ---
 
 ### 🛡️ بصمة التحقق الرقمية (SHA-256 Checksum):
 ```text
-0D3C4085D011D949690849E2A04054DB12AFB6A2E5CACD71E623D13F61B40F6F
+262094DA5129EF65EDD4DDB65BC34EA9635EC637E0D9B42095683CE3D2B20D77
 ```
 
 للتحقق من سلامة الملف عبر PowerShell بعد التحميل:
 ```powershell
-Get-FileHash -Path "Clinifa_Setup_v1.0.6.exe" -Algorithm SHA256
+Get-FileHash -Path "Clinifa_Setup_v1.0.7.exe" -Algorithm SHA256
 ```
 
 ---
