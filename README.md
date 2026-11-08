@@ -9,14 +9,14 @@
 
 | حزمة البرنامج | رقم الإصدار | الحجم | التوافق | رابط التحميل المباشر الدائم |
 | :--- | :--- | :--- | :--- | :--- |
-| **Clinifa Setup (أحدث إصدار دائم)** | **v1.0.9** | **71.74 MB** | Windows 10 / 11 (64-bit) | [⬇️ تحميل الإصدار الأخير (رابط دائم)](https://github.com/ahmetbasmaci/Clinifa-releases/releases/latest/download/Clinifa_Setup.exe) |
-| **Clinifa Setup (v1.0.9)** | **v1.0.9** | **71.74 MB** | Windows 10 / 11 (64-bit) | [⬇️ تحميل ملف Clinifa_Setup_v1.0.9.exe](https://github.com/ahmetbasmaci/Clinifa-releases/releases/download/v1.0.9/Clinifa_Setup_v1.0.9.exe) |
+| **Clinifa Setup (أحدث إصدار دائم)** | **v1.0.9** | **72.34 MB** | Windows 10 / 11 (64-bit) | [⬇️ تحميل الإصدار الأخير (رابط دائم)](https://github.com/ahmetbasmaci/Clinifa-releases/releases/latest/download/Clinifa_Setup.exe) |
+| **Clinifa Setup (v1.0.9)** | **v1.0.9** | **72.34 MB** | Windows 10 / 11 (64-bit) | [⬇️ تحميل ملف Clinifa_Setup_v1.0.9.exe](https://github.com/ahmetbasmaci/Clinifa-releases/releases/download/v1.0.9/Clinifa_Setup_v1.0.9.exe) |
 
 ---
 
 ### 🛡️ بصمة التحقق الرقمية (SHA-256 Checksum):
 ```text
-651BC8193A73248FFD758899FE06AD1FCDF9388092EBA5A6CE0BF9A68F7A25D4
+4743F1E2159AACC77B65145D7D114E1E871C63CE4BEF744FFFFB05DD65B64CED
 ```
 
 للتحقق من سلامة الملف عبر PowerShell بعد التحميل:
